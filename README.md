@@ -9,6 +9,8 @@
 ## Demo
 
 ## Deployment
-[ExpressNotes](https://expressnotes.herokuapp.com/)
+- [Heroku](https://expressnotes.herokuapp.com/)
+- [GitHub Pages](https://xritchie91.github.io/expressnotes/)
 
 ## Questions
+[Ritchie](https://www.github.com/xRitchie91)
