@@ -3,6 +3,11 @@
 ## Description
 
 ## Table of Contents
+- [Demo](#Demo)
+- [Description](#Description)
+- [Deployment](#Deployment)
+- [Usage](#Usage)
+- [Reach Out](#Questions)
 
 ## Usage
 
