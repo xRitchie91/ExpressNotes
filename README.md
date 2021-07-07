@@ -8,4 +8,7 @@
 
 ## Demo
 
+## Deployment
+[ExpressNotes](https://expressnotes.herokuapp.com/)
+
 ## Questions
