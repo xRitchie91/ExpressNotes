@@ -18,7 +18,7 @@ This application is intended to create, save, and delete notes after receiving u
 
 ## Deployment
 - [Heroku](https://expressnotes.herokuapp.com/)
-- [GitHub Pages](https://xritchie91.github.io/expressnotes/)
+- [GitHub Pages](https://xritchie91.github.io/ExpressNotes/)
 
 ## Questions
 [Ritchie](https://www.github.com/xRitchie91)
