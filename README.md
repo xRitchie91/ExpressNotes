@@ -13,8 +13,9 @@
 
 ## Demo
 ### Screenshots
-![expressnotes1](https://user-images.githubusercontent.com/74946954/124893720-973c3980-dfa0-11eb-804c-dfcb5a93db19.jpg)
-![expressnotes2](https://user-images.githubusercontent.com/74946954/124893725-97d4d000-dfa0-11eb-8a81-e33dd30067f1.jpg)
+![expressnotes1](https://user-images.githubusercontent.com/74946954/124893876-c0f56080-dfa0-11eb-9c3d-20a21f5fce28.jpg)
+![expressnotes2](https://user-images.githubusercontent.com/74946954/124893877-c0f56080-dfa0-11eb-935d-9fbb1c7cba9b.jpg)
+
 
 ## Deployment
 - [Heroku](https://expressnotes.herokuapp.com/)
