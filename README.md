@@ -1,15 +1,14 @@
 # ExpressNotes
 
 ## Description
+ExpressNotes is a note taking application that utilizes the express module.
+This application is intended to create, save, and delete notes after receiving user input.
 
 ## Table of Contents
 - [Demo](#Demo)
 - [Description](#Description)
 - [Deployment](#Deployment)
-- [Usage](#Usage)
 - [Reach Out](#Questions)
-
-## Usage
 
 ## Demo
 ### Screenshots
