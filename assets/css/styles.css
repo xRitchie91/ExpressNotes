@@ -5,7 +5,7 @@ html, body {
 }
 
 .save-note {
-  display: none;
+  display: contents;
 }
 
 .icons i {
